@@ -1,0 +1,31 @@
+body {
+    background-color: #1b1e23;   
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+div {
+    text-align: center;
+}
+.playlist {
+    color: white;
+    Display: flex;
+    justify-content: center;
+    Align-items: center
+}
+.video {
+    text-align: center;
+}
+.voltar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.obs {
+    color: white;
+    text-align: center;
+}
+.obs strong {
+    color: red;
+}
